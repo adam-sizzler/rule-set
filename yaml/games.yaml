@@ -83,6 +83,8 @@ payload:
   - "PROCESS-NAME,GTA5_Enhanced.exe"
   - "PROCESS-NAME,GTA5_Enhanced_BE.exe"
   - "PROCESS-NAME,SocialClubHelper.exe"
+  - "PROCESS-NAME,WardogsClient-Win64-Shipping.exe"
+  - "PROCESS-NAME,crashpad_handler.exe"
   - "PROCESS-PATH-REGEX,(?i).*Win64-Shipping.*"
   - "PROCESS-PATH-REGEX,Aimbeast.*"
   - "PROCESS-PATH-REGEX,BattleBit.*"
