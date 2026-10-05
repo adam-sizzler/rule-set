@@ -90,7 +90,9 @@
             "Launcher.exe",
             "GTA5_Enhanced.exe",
             "GTA5_Enhanced_BE.exe",
-            "SocialClubHelper.exe"
+            "SocialClubHelper.exe",
+            "WardogsClient-Win64-Shipping.exe",
+            "crashpad_handler.exe"
           ]
         },
         {
